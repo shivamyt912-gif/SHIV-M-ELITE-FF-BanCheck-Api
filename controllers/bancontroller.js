@@ -17,3 +17,4 @@ async function getBanInfo(req, res) {
 }
 
 module.exports = { getBanInfo };
+
